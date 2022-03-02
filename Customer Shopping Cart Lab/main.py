@@ -15,11 +15,11 @@ karen.customers_shopping_cart.add_product_to_cart(birthday_cake)
 karen.customers_shopping_cart.add_product_to_cart(gallon_of_milk)
 karen.customers_shopping_cart.add_product_to_cart(plastic_utensils)
 #3.
-print(karen.customer_looks_into_cart())
+karen.customer_looks_into_cart()
 #4.
-karen.customers_shopping_cart.total_cost_of_cart()
+karens_total_cost = karen.customers_shopping_cart.total_cost_of_cart()
 
 #5.
 karen.customers_shopping_cart.empty_cart()
 #6.
-print(karen.customer_looks_into_cart())
+karen.customer_looks_into_cart()
