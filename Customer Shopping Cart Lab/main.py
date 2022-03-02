@@ -17,9 +17,9 @@ karen.customers_shopping_cart.add_product_to_cart(plastic_utensils)
 #3.
 print(karen.customer_looks_into_cart())
 #4.
-karen.customers_shopping_cart.total_cost_of_cart
+karen.customers_shopping_cart.total_cost_of_cart()
 
 #5.
-karen.customers_shopping_cart.empty_cart
+karen.customers_shopping_cart.empty_cart()
 #6.
 print(karen.customer_looks_into_cart())
